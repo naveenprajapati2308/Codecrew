@@ -7,7 +7,7 @@ export default function HomeLayout() {
         <main>
             <NavbarComponent />
             <Outlet />
-            {/* <FooterComponent /> */}
+            <FooterComponent />
         </main>
     )
 }

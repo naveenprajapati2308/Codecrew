@@ -65,7 +65,7 @@ function NavbarComponent() {
       <div className="tw-flex tw-justify-between lg:tw-w-auto tw-w-full lg:tw-border-b-0 tw-pl-6 tw-pr-2 tw-border-solid tw-border-b-2 tw-border-gray-300 dark:tw-border-gray-700 tw-pb-5 lg:tw-pb-0">
         <div className="tw-flex tw-items-center tw-flex-shrink-0 tw-text-gray-800 dark:tw-text-gray-200 tw-mr-16">
           <span className="tw-font-semibold tw-text-3xl tw-tracking-tight">
-            <Link to="/"> {"< AK />"}</Link>
+            <Link to="/"> {"<NP/>"}</Link>
           </span>
         </div>
         <div className="tw-block lg:tw-hidden ">

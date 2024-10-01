@@ -41,7 +41,7 @@ const InfoPage = ({ data }) => {
                             </div>
                         </div>
                     </div>
-                    {/* <div className="tw-bg-yellow-500 tw-text-white tw-p-6  tw-shadow">
+                    <div className="tw-bg-yellow-500 tw-text-white tw-p-6  tw-shadow">
                         <h2 className="tw-text-lg tw-font-semibold">Total Views</h2>
                         <p className="tw-text-3xl tw-mt-2">{totalViews}</p>
                     </div>
@@ -52,7 +52,7 @@ const InfoPage = ({ data }) => {
                     <div className="tw-bg-indigo-500 tw-text-white tw-p-6  tw-shadow">
                         <h2 className="tw-text-lg tw-font-semibold">Total Likes</h2>
                         <p className="tw-text-3xl tw-mt-2">{totalLikes}</p>
-                    </div> */}
+                    </div>
                     <div className="tw-bg-pink-500 tw-text-white tw-p-6  tw-shadow">
                         <h2 className="tw-text-lg tw-font-semibold">Total Active Users</h2>
                         <p className="tw-text-3xl tw-mt-2">{totalActiveUsers}</p>

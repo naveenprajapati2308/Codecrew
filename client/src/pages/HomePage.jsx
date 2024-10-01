@@ -19,7 +19,7 @@ export default function HomePage() {
 
   useEffect(() => {
     if (showToast) {
-      toast.info(`😊 Welcome Back ${user?.username ? user.username :""}!`, {
+      toast.info(`😊😊 Welcome Back ${user?.username ? user.username :""}!`, {
         position: "top-right",
         autoClose: 2000,
         hideProgressBar: false,
